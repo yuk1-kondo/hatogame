@@ -1,13 +1,13 @@
 # Hatogame - 鳩シューティングゲーム 🕊️
 
-[![Build and Deploy](https://github.com/YOUR_USERNAME/hatogame/actions/workflows/deploy.yml/badge.svg)](https://github.com/YOUR_USERNAME/hatogame/actions/workflows/deploy.yml)
+[![Build and Deploy](https://github.com/yuk1-kondo/hatogame/actions/workflows/deploy.yml/badge.svg)](https://github.com/yuk1-kondo/hatogame/actions/workflows/deploy.yml)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![HTML5 Canvas](https://img.shields.io/badge/HTML5_Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/API/Canvas_API)
 
 TypeScriptとHTML5 Canvasで作られた2Dシューティングゲームです。
 
-🎮 **[ゲームをプレイ](https://YOUR_USERNAME.github.io/hatogame/)** | 📖 **[開発ガイド](DEVELOPMENT.md)**
+🎮 **[ゲームをプレイ](https://yuk1-kondo.github.io/hatogame/)** | 📖 **[開発ガイド](DEVELOPMENT.md)**
 
 ## ゲーム概要
 

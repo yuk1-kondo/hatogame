@@ -24,8 +24,8 @@
 リポジトリ作成後、以下のコマンドを実行：
 
 ```bash
-# リモートリポジトリを追加（YOUR_USERNAMEを実際のユーザー名に置き換え）
-git remote add origin https://github.com/YOUR_USERNAME/hatogame.git
+# リモートリポジトリを追加
+git remote add origin https://github.com/yuk1-kondo/hatogame.git
 
 # mainブランチにプッシュ
 git push -u origin main
