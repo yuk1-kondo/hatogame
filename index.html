@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hatogame - 鳩シューティングゲーム</title>
+  </head>
+  <body>
+    <div id="app">
+      <canvas id="gameCanvas" width="800" height="600"></canvas>
+      <div id="ui">
+        <div id="score">スコア: 0</div>
+        <div id="gameOver" style="display: none;">
+          <h2>ゲームオーバー</h2>
+          <button id="restartBtn">リスタート</button>
+        </div>
+      </div>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
